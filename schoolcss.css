@@ -1,0 +1,47 @@
+body
+{
+    display: block;
+}
+nav
+{
+    background-color: rgb(255, 238, 142);
+}
+ .navbar-brand img
+ {
+     max-height: 80px;
+     padding-top: 6px;
+ }
+ .navbar-brand
+ {
+     font-size:30px;
+     text-transform:uppercase;
+     color: rgb(51, 0, 0);
+     
+ }
+ section
+ {
+     padding-top: 50px;
+     padding-bottom: 50px;
+ }
+ section h1
+ {
+     text-transform: uppercase;
+     font-weight: 900;
+     color: rgb(8, 8, 8);
+     text-align:left;
+     margin-bottom: 20px;
+ }
+ section p
+ {
+     font-size: medium;
+     font-weight: 800;
+ }
+
+footer 
+{
+text-align: center;
+padding: 8px;
+background-color: rgb(255, 221, 154);
+color: rgb(7, 5, 5);
+
+}
